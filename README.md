@@ -10,3 +10,6 @@ git clone https://github.com/computervisioneng/Silent-Face-Anti-Spoofing.git
 pip install -r Silent-Face-Anti-Spoofing/requirements.txt
 
 using this we can add the spoofing feature
+
+Face detection module
+https://github.com/ageitgey/face_recognition.git
